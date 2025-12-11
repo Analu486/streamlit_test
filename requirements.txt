@@ -1,0 +1,3 @@
+echo "pandas" >> requirements.txt
+echo "scipy" >> requirements.txt
+echo "streamlist" >> requirements.txt
